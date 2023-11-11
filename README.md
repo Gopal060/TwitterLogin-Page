@@ -1,6 +1,8 @@
 # TwitterLogin-Page
 A simple project replicating the Twitter login page using HTML, CSS, and JavaScript. This project serves as a hands-on exercise for practicing web development skills.
 
+![image](https://github.com/Gopal060/TwitterLogin-Page/assets/106421513/ec704fda-02bc-4108-b1db-afed9b2746c4)
+
 ## Features
 - Responsive design for various screen sizes.
 - Mimics the look and feel of the Twitter login page.
